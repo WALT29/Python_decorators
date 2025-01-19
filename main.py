@@ -1,12 +1,9 @@
 #DECORATORS
-
-
-
 """
 Decorators help us to add functionality to our functions while avoiding code redundancy 
 
 FUNCTIONS AS FIRST CLASS OBJECTS
-    In python functions are objects ,they can be saved as variables ,passed as arguments to other functions and return by other functions
+    In python functions are objects ,they can be saved as variables ,passed as arguments to other functions and returned by other functions
 
 """
 #EXAMPLES
