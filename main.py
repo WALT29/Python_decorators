@@ -60,7 +60,9 @@ def decorator(func):
 
 def get_called():
     print("I am the function and I am being called.")
-    
+
+
+#function_to_decorate = decorator_name(function_to_decorate)    
 get_called=decorator(get_called)
 get_called()
 
