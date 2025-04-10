@@ -121,4 +121,3 @@ def chop_vegetables(time):
     print("chopping the vegetables")
     
 sweep_hours(700)
-#s
